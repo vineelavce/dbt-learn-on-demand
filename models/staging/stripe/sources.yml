@@ -1,7 +1,7 @@
 version: 2
 
 sources:
-    - name: stipe
+    - name: stripe
       database: raw
       tables: 
         - name: payment
